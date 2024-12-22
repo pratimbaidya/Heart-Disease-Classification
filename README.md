@@ -22,3 +22,6 @@ This is a multivariate type of dataset which means providing or involving a vari
 * ca: number of major vessels (0-3) colored by fluoroscopy
 * thal: [normal; fixed defect; reversible defect]
 * num: the predicted attribute
+
+## Goal
+I am building different classification models using this dataset. Matplotlib and Seaborn are used for visualizations. Numpy, Pandas and Scikit-Learn are used for model development and tuning.
